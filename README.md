@@ -48,9 +48,10 @@ n8n (automation), Airtable (database and dashboard), Python / pandas (data gener
 
 | Folder | Contents |
 |---|---|
-| `prototype/` | Python that generates the synthetic clinic data and analyzes it like a biller |
-| `screenshots/` | The dashboard, the workflow canvas, and the alert messages |
-| `docs/` | The full case study |
+| [`prototype/`](./prototype) | Python that generates the synthetic clinic data and analyzes it like a biller |
+| [`screenshots/`](./screenshots) | The dashboard, the workflow canvas, and the alert messages |
+| [`docs/`](./docs) | The full case study |
+
 
 Run the analysis yourself (Python 3 with `pandas` and `numpy`):
 
