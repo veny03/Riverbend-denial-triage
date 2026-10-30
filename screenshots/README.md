@@ -1,6 +1,5 @@
 # Screenshots
 
-Add these images. Use only the synthetic demo data.
 
 | File | What to capture |
 |---|---|
@@ -11,4 +10,3 @@ Add these images. Use only the synthetic demo data.
 | `telegram-alert.png` | A daily alert message in Telegram (hide the bot name and chat) |
 | `error-alert.png` | An error message from the error workflow |
 
-Never include tokens, base IDs, or chat IDs in a screenshot.
