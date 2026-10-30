@@ -1,0 +1,19 @@
+# Secrets. Never commit these.
+.env
+*.env
+*.token
+credentials*
+secrets*
+
+# Generated data and outputs
+data/*.csv
+work_queue.csv
+
+# Python and Node
+__pycache__/
+*.pyc
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
